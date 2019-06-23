@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0afbd7016f0d994d8826dd0315919b6, type: 3}
+  m_Name: Default Enemy Roster
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 114451078257442204, guid: 0ab4d5591fd3f5c4d922212049f4f137, type: 2}
